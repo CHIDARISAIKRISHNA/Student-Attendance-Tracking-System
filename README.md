@@ -1,7 +1,7 @@
 # Student Attendance Tracking System
 
 ## Project Overview
-The **Student Attendance Tracking System** is a console-based Java application designed to help educational institutions record, update, and view student attendance efficiently. The system interacts with a MySQL database to manage student and attendance data, ensuring data integrity through structured tables and proper foreign key relationships. This project demonstrates the use of JDBC, DAO patterns, and object-oriented programming principles for robust backend management.
+The **Student Attendance Tracking System** is a console-based Java application designed to help educational institutions record, update, and view student attendance efficiently. The system interacts with a MySQL database to manage student and attendance data, ensuring data integrity through structured tables and proper foreign key relationships. This project demonstrates the use of JDBC and object-oriented programming principles for robust backend management.
 
 ---
 
